@@ -1,0 +1,42 @@
+.one{
+  text-align: center;
+  padding: 30px 200px 30px 200px;
+  background-color: #011627;;
+  border-top: 0px;
+  border-bottom: 50px;
+  border-left: 50px;
+  border-right: 50px;
+  border-style: solid;
+  border-color: #3BCEAC;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+h1{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+h2{
+  color:white;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+p{
+  color:white;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+#love{
+  text-align: center;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+#sub{
+  background-color: yellow;
+  height: 60px;
+  width: 75px;
+  border-radius: 10px;
+
+}
